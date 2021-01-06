@@ -1,0 +1,15 @@
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\bin\Debug\Quine-McCluskey.exe.config
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\bin\Debug\Quine-McCluskey.exe
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\bin\Debug\Quine-McCluskey.pdb
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.csprojAssemblyReference.cache
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\MainWindow.g.cs
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\App.g.cs
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey_MarkupCompile.cache
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey_MarkupCompile.lref
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\MainWindow.baml
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.g.resources
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine_McCluskey.Properties.Resources.resources
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.csproj.GenerateResource.cache
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.csproj.CoreCompileInputs.cache
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.exe
+H:\大学\2年前期\05_月5_論理回路\Quine-McCluskey\Quine-McCluskey\obj\Debug\Quine-McCluskey.pdb
